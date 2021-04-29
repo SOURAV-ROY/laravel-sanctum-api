@@ -11,7 +11,8 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.12",
         "laravel/sanctum": "^2.10",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "wulfheart/pretty_routes": "dev-master"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
