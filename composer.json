@@ -12,6 +12,7 @@
         "laravel/framework": "^8.12",
         "laravel/sanctum": "^2.10",
         "laravel/tinker": "^2.5",
+        "protoqol/prequel": "^1.22",
         "wulfheart/pretty_routes": "dev-master"
     },
     "require-dev": {
